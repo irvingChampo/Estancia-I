@@ -1,0 +1,28 @@
+.container-cardlogin{
+    width: 40%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffffff3a;
+    box-shadow: 1px 1px 1px 1px red;
+    border-radius: 15px;
+}
+
+.container-inputs{
+    width: 65%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.escudoLogin{
+    width: 30%;
+    margin-left: 10px;
+    background-color: #ffffffa5;
+    box-shadow: 1px 1px 1px 1px red;
+    border-radius: 50%;
+}
